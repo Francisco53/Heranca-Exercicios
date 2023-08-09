@@ -1,9 +1,9 @@
+package view;
 
-package heranca;
+import model.Fornecedor;
+import model.Pessoa;
 
-
-public class ProgramaFornecedor {
-
+public class TesteFornecedor {
     
     public static void main(String[] args) {
         

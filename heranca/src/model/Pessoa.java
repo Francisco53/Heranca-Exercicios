@@ -1,6 +1,4 @@
-
-package heranca;
-
+package model;
 
 public class Pessoa {
     

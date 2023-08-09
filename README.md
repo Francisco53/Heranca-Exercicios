@@ -3,12 +3,12 @@
 ## Intregrantes:
 - Francisco
 - Bruno
-- Josué
 - Juvenal
+- Josué
 
 ## Distribuição das questões:
 
 Francisco: [1 e 2]  
-Bruno: [3]  
-Josué: [4]  
-Juvenal: [5]
+Bruno: [3 e 4]  
+Juvenal: [5]  
+Josué: [6]
